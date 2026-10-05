@@ -71,7 +71,7 @@ text, tspan {white-space: pre;}
 </text>
 <text x="513" y="30" fill="#c9d1d9">
 <tspan x="513" y="30">khaydarovdev</tspan> -———————————————————————————————————————————-—-
-<tspan x="513" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, iOS, Android</tspan>
+<tspan x="513" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, MacOS, iOS, Android</tspan>
 <tspan x="513" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">17 years, 5 months, 3 days</tspan>
 <tspan x="513" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">PrepLink Academy (Founder)</tspan>
 <tspan x="513" y="110" class="cc">. </tspan>
